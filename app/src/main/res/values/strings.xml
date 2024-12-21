@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Workshop02_BottomNavigationBar</string>
+    <string name="title_home">Home</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_user_profile">User Profile</string>
+</resources>
